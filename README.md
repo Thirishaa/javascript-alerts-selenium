@@ -78,10 +78,6 @@ src/
 
 ## Output Sample
 
-Below is the terminal output when the alerts were handled successfully:
-
-![Test Output](selinium.javascript.assessment1/screenshots/output.png)
-
 Simple alert accepted and verified.
 Confirmation alert dismissed and verified.
 Prompt alert input submitted and verified.
